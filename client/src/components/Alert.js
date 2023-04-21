@@ -1,5 +1,6 @@
 import { CheckCircleIcon } from "@heroicons/react/20/solid";
 
+//Popup displaying success or failure of data retrieval from server based of value prop which is a boolean 
 export const Alert = ({ value }) => {
   const primaryColour = value ? "text-green-400" : "text-red-400";
   const ringColour = value ? "ring-green-600" : "ring-red-600";
@@ -21,7 +22,7 @@ export const Alert = ({ value }) => {
         <div className="ml-3">
           <p
             data-testid="result"
-            className={`text-sm font-medium ${secondaryColour}`}
+            className={`text-center text-sm font-medium ${secondaryColour}`}
           >
             {value
               ? "Country data retrieved"
