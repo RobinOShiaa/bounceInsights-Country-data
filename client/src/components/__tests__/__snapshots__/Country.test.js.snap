@@ -1,0 +1,581 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches Country component snapshot with Loading text display 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="px-4 sm:px-6 lg:px-8"
+      >
+        <div
+          class="mx-auto max-w-7xl"
+        >
+          <div
+            class="relative pb-4"
+          >
+            <div
+              aria-hidden="true"
+              class="absolute inset-0 flex items-center"
+            >
+              <div
+                class="w-full border-t border-gray-300"
+              />
+            </div>
+            <div
+              class="relative flex justify-start"
+            >
+              <span
+                class="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+                id="title"
+              >
+                Loading...
+              </span>
+            </div>
+          </div>
+          <div
+            class="grid grid-cols-1 gap-px bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+            id="country-stats"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="px-4 sm:px-6 lg:px-8"
+    >
+      <div
+        class="mx-auto max-w-7xl"
+      >
+        <div
+          class="relative pb-4"
+        >
+          <div
+            aria-hidden="true"
+            class="absolute inset-0 flex items-center"
+          >
+            <div
+              class="w-full border-t border-gray-300"
+            />
+          </div>
+          <div
+            class="relative flex justify-start"
+          >
+            <span
+              class="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+              id="title"
+            >
+              Loading...
+            </span>
+          </div>
+        </div>
+        <div
+          class="grid grid-cols-1 gap-px bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+          id="country-stats"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Matches Country component snapshot with no Loading text display 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="px-4 sm:px-6 lg:px-8"
+      >
+        <div
+          class="mx-auto max-w-7xl"
+        >
+          <div
+            class="relative pb-4"
+          >
+            <div
+              aria-hidden="true"
+              class="absolute inset-0 flex items-center"
+            >
+              <div
+                class="w-full border-t border-gray-300"
+              />
+            </div>
+            <div
+              class="relative flex justify-start"
+            >
+              <span
+                class="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+                id="title"
+              >
+                test testCountry
+              </span>
+            </div>
+          </div>
+          <div
+            class="bg-slate-300 border-8  border-gray-900 mb-4 h-64"
+            id="countryFlag"
+          >
+            <img
+              class="h-full w-full mx-auto"
+              src="https://flagcdn.com/w320/ad.png"
+            />
+          </div>
+          <div
+            class="grid grid-cols-1 gap-px bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+            id="country-stats"
+          >
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                capital
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  testCapital
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                continent
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  testContinent
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                language
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  testLanguage
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                name
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  test
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                officialName
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  testOfficial
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                population
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  1
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                subregion
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  testSubregion
+                </span>
+              </p>
+            </div>
+            <div
+              class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+            >
+              <p
+                class="text-sm font-medium leading-6 text-gray-400"
+              >
+                timezone
+              </p>
+              <p
+                class="mt-2 flex items-baseline gap-x-2"
+              >
+                <span
+                  class="text-4xl font-semibold tracking-tight text-white"
+                >
+                  testTimezone
+                </span>
+              </p>
+            </div>
+          </div>
+          <iframe
+            class="mt-10 h-52 w-full"
+            id="google-iframe"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCnsF1alkP69NorwrBAlHgjyAPPNpjHEz8&q=testCapital,test"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="px-4 sm:px-6 lg:px-8"
+    >
+      <div
+        class="mx-auto max-w-7xl"
+      >
+        <div
+          class="relative pb-4"
+        >
+          <div
+            aria-hidden="true"
+            class="absolute inset-0 flex items-center"
+          >
+            <div
+              class="w-full border-t border-gray-300"
+            />
+          </div>
+          <div
+            class="relative flex justify-start"
+          >
+            <span
+              class="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+              id="title"
+            >
+              test testCountry
+            </span>
+          </div>
+        </div>
+        <div
+          class="bg-slate-300 border-8  border-gray-900 mb-4 h-64"
+          id="countryFlag"
+        >
+          <img
+            class="h-full w-full mx-auto"
+            src="https://flagcdn.com/w320/ad.png"
+          />
+        </div>
+        <div
+          class="grid grid-cols-1 gap-px bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+          id="country-stats"
+        >
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              capital
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                testCapital
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              continent
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                testContinent
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              language
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                testLanguage
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              name
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                test
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              officialName
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                testOfficial
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              population
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                1
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              subregion
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                testSubregion
+              </span>
+            </p>
+          </div>
+          <div
+            class="bg-gray-900 px-4 py-6 sm:px-6 lg:px-8"
+          >
+            <p
+              class="text-sm font-medium leading-6 text-gray-400"
+            >
+              timezone
+            </p>
+            <p
+              class="mt-2 flex items-baseline gap-x-2"
+            >
+              <span
+                class="text-4xl font-semibold tracking-tight text-white"
+              >
+                testTimezone
+              </span>
+            </p>
+          </div>
+        </div>
+        <iframe
+          class="mt-10 h-52 w-full"
+          id="google-iframe"
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCnsF1alkP69NorwrBAlHgjyAPPNpjHEz8&q=testCapital,test"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

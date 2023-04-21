@@ -1,0 +1,310 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches App component snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="absolute w-screen flex justify-center mt-2 block"
+        />
+        <div
+          class="hidden lg:fixed lg:inset-y-0 lg:z-50 lg:flex lg:w-72 lg:flex-col"
+        >
+          <div
+            class="flex grow flex-col gap-y-5 overflow-y-auto bg-gray-900 px-6"
+          >
+            <nav
+              class="flex flex-1 flex-col"
+            >
+              <div
+                class="mb-2 -mx-2"
+              >
+                <label
+                  class="block pt-8 text-xs font-semibold leading-6 text-indigo-200"
+                  for="email"
+                >
+                  Countries
+                </label>
+                <div
+                  class="mt-2"
+                >
+                  <input
+                    class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+                    data-testid="test-input"
+                    id="countrySearch"
+                    name="country"
+                    placeholder="Ireland"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <ul
+                class="mt-2 flex flex-1 flex-col gap-y-7"
+                role="list"
+              >
+                <li>
+                  <ul
+                    class="-mx-2 space-y-1"
+                    id="countryList"
+                    role="list"
+                  />
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div
+          class="sticky top-0 z-40 flex items-center gap-x-6 bg-gray-900 px-4 py-4 shadow-sm sm:px-6 lg:hidden"
+        >
+          <button
+            class="-m-2.5 p-2.5 text-gray-400 lg:hidden"
+            type="button"
+          >
+            <span
+              class="sr-only"
+            >
+              Open sidebar
+            </span>
+            <svg
+              aria-hidden="true"
+              class="h-6 w-6"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+          <div
+            class="flex-1 text-sm font-semibold leading-6 text-white"
+          >
+            Dashboard
+          </div>
+        </div>
+        <main
+          class="py-10 lg:pl-72"
+        >
+          <div
+            class="px-4 sm:px-6 lg:px-8"
+          >
+            <div
+              class="mx-auto max-w-7xl"
+            >
+              <div
+                class="relative pb-4"
+              >
+                <div
+                  aria-hidden="true"
+                  class="absolute inset-0 flex items-center"
+                >
+                  <div
+                    class="w-full border-t border-gray-300"
+                  />
+                </div>
+                <div
+                  class="relative flex justify-start"
+                >
+                  <span
+                    class="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+                    id="title"
+                  >
+                    Loading...
+                  </span>
+                </div>
+              </div>
+              <div
+                class="grid grid-cols-1 gap-px bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+                id="country-stats"
+              />
+            </div>
+          </div>
+        </main>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="absolute w-screen flex justify-center mt-2 block"
+      />
+      <div
+        class="hidden lg:fixed lg:inset-y-0 lg:z-50 lg:flex lg:w-72 lg:flex-col"
+      >
+        <div
+          class="flex grow flex-col gap-y-5 overflow-y-auto bg-gray-900 px-6"
+        >
+          <nav
+            class="flex flex-1 flex-col"
+          >
+            <div
+              class="mb-2 -mx-2"
+            >
+              <label
+                class="block pt-8 text-xs font-semibold leading-6 text-indigo-200"
+                for="email"
+              >
+                Countries
+              </label>
+              <div
+                class="mt-2"
+              >
+                <input
+                  class="block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6"
+                  data-testid="test-input"
+                  id="countrySearch"
+                  name="country"
+                  placeholder="Ireland"
+                  type="text"
+                />
+              </div>
+            </div>
+            <ul
+              class="mt-2 flex flex-1 flex-col gap-y-7"
+              role="list"
+            >
+              <li>
+                <ul
+                  class="-mx-2 space-y-1"
+                  id="countryList"
+                  role="list"
+                />
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+      <div
+        class="sticky top-0 z-40 flex items-center gap-x-6 bg-gray-900 px-4 py-4 shadow-sm sm:px-6 lg:hidden"
+      >
+        <button
+          class="-m-2.5 p-2.5 text-gray-400 lg:hidden"
+          type="button"
+        >
+          <span
+            class="sr-only"
+          >
+            Open sidebar
+          </span>
+          <svg
+            aria-hidden="true"
+            class="h-6 w-6"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+        <div
+          class="flex-1 text-sm font-semibold leading-6 text-white"
+        >
+          Dashboard
+        </div>
+      </div>
+      <main
+        class="py-10 lg:pl-72"
+      >
+        <div
+          class="px-4 sm:px-6 lg:px-8"
+        >
+          <div
+            class="mx-auto max-w-7xl"
+          >
+            <div
+              class="relative pb-4"
+            >
+              <div
+                aria-hidden="true"
+                class="absolute inset-0 flex items-center"
+              >
+                <div
+                  class="w-full border-t border-gray-300"
+                />
+              </div>
+              <div
+                class="relative flex justify-start"
+              >
+                <span
+                  class="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+                  id="title"
+                >
+                  Loading...
+                </span>
+              </div>
+            </div>
+            <div
+              class="grid grid-cols-1 gap-px bg-white/5 sm:grid-cols-2 lg:grid-cols-4"
+              id="country-stats"
+            />
+          </div>
+        </div>
+      </main>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
