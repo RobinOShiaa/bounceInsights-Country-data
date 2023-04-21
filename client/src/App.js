@@ -107,7 +107,7 @@ function App() {
 
   return (
     <div>
-      <div className={classNames('absolute w-screen flex justify-center mt-2', displayNotification ?  'block' : 'hidden' )}>
+      <div className={classNames('absolute w-screen flex justify-center mt-4', displayNotification ?  'block' : 'hidden' )}>
         {notification !== null && <Alert value={notification}/>}
       </div>
 
@@ -237,6 +237,9 @@ function App() {
       </div>
 
       <main className="py-3 lg:pl-72">
+        <div className={classNames('absolute w-full flex justify-center mt-4', displayNotification ?  'block' : 'hidden' )}>
+          {notification !== null && <Alert value={notification}/>}
+        </div>
         <Country
           selected={state.selected}
           country={state.country}
