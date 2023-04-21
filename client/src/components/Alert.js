@@ -12,7 +12,7 @@ export const Alert = ({ value }) => {
 
   return (
     <div className="rounded-md bg-green-50 p-4">
-      <div className="flex">
+      <div className="flex justify-center">
         <div className="flex-shrink-0">
           <CheckCircleIcon
             className={`h-5 w-5  ${primaryColour}`}
