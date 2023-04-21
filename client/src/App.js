@@ -234,7 +234,7 @@ function App() {
       </div>
 
       <main className="py-3 lg:pl-72">
-        <div className={classNames('absolute w-full flex justify-center mt-4', displayNotification ?  'block' : 'hidden' )}>
+        <div className={classNames('absolute w-full mt-4', displayNotification ?  'block' : 'hidden' )}>
           {notification !== null && <Alert value={notification}/>}
         </div>
         <Country
