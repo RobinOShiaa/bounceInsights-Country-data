@@ -236,7 +236,7 @@ function App() {
         </div>
       </div>
 
-      <main className="py-2 lg:pl-72">
+      <main className="py-3 lg:pl-72">
         <Country
           selected={state.selected}
           country={state.country}

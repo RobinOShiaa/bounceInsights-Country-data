@@ -42,7 +42,7 @@ export const Country = ({ selected, country, countryFlag }) => {
         {selected && (
           <iframe
             id="google-iframe"
-            className="mt-10 h-40 w-full"
+            className="mt-4 h-40 w-full"
             src={`https://www.google.com/maps/embed/v1/place?key=${process.env.REACT_APP_GOOGLE_API_KEY}=${country.capital},${country.name}`}
           />
         )}
