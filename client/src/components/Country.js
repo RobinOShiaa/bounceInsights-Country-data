@@ -15,7 +15,7 @@ export const Country = ({ selected, country, countryFlag }) => {
           <div className="relative flex justify-start">
             <span
               id="title"
-              className="bg-white pr-3 text-base font-semibold leading-6 text-gray-900"
+              className="pr-3 text-base font-semibold leading-6 text-grey-900"
             >
               {selected ? `${selected.flag} ${selected.name}` : "Loading..."}
             </span>

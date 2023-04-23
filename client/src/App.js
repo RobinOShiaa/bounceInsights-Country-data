@@ -52,6 +52,11 @@ function App() {
               subregion: c.subregion,
               timezone: c.timezones[0],
               language: Object.values(c.languages)[0],
+              coatOfArms: Object.values(c.coatOfArms),
+              region : c.region,
+              subregion: c.subregion,
+              continents: Object.values(c.continents),
+              latlong: c.latlng
             },
             selected: state.navigation.filter((n) => n.name === country)[0],
           });
@@ -234,7 +239,7 @@ function App() {
       </div>
 
       <main className="py-3 lg:pl-72">
-        <div className={classNames('absolute w-full mt-4', displayNotification ?  'block' : 'hidden' )}>
+        <div className={classNames('absolute w-32 mt-4', displayNotification ?  'block' : 'hidden' )}>
           {notification !== null && <Alert value={notification}/>}
         </div>
         <Country

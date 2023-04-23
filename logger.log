@@ -1,0 +1,4087 @@
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca412-/niKu/yDKfI6WGeXl5UFWgZfCSE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 2033
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-22T17:13:32.304Z'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'warn',
+  message: 'HTTP GET /',
+  timestamp: '2023-04-22T17:13:35.234Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1221
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-22T17:13:48.909Z'
+}
+{
+  meta: {
+    req: {
+      url: '/',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/',
+      query: {}
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'warn',
+  message: 'HTTP GET /',
+  timestamp: '2023-04-22T17:13:50.858Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2071
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-22T17:15:12.750Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 303
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-22T17:15:14.685Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 330
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-22T17:15:17.594Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Andorra',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Andorra',
+      query: { country: 'Andorra' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 312
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Andorra',
+  timestamp: '2023-04-22T17:15:20.005Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Angola',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Angola',
+      query: { country: 'Angola' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 296
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Angola',
+  timestamp: '2023-04-22T17:15:21.133Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antarctica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antarctica',
+      query: { country: 'Antarctica' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 350
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antarctica',
+  timestamp: '2023-04-22T17:15:22.331Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antigua%20and%20Barbuda',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antigua%20and%20Barbuda',
+      query: { country: 'Antigua and Barbuda' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 356
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antigua%20and%20Barbuda',
+  timestamp: '2023-04-22T17:15:23.418Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antigua%20and%20Barbuda',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"e41-CtfsGybMN/5Wpr6Ykja9NHI6yno"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antigua%20and%20Barbuda',
+      query: { country: 'Antigua and Barbuda' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 310
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antigua%20and%20Barbuda',
+  timestamp: '2023-04-22T17:15:24.464Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Armenia',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Armenia',
+      query: { country: 'Armenia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 338
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Armenia',
+  timestamp: '2023-04-22T17:15:26.019Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Austria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Austria',
+      query: { country: 'Austria' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 319
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Austria',
+  timestamp: '2023-04-22T17:15:29.229Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=British%20Indian%20Ocean%20Territory',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=British%20Indian%20Ocean%20Territory',
+      query: { country: 'British Indian Ocean Territory' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 303
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=British%20Indian%20Ocean%20Territory',
+  timestamp: '2023-04-22T17:15:30.580Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Cocos%20(Keeling)%20Islands',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Cocos%20(Keeling)%20Islands',
+      query: { country: 'Cocos (Keeling) Islands' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 496
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Cocos%20(Keeling)%20Islands',
+  timestamp: '2023-04-22T17:15:32.308Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Christmas%20Island',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Christmas%20Island',
+      query: { country: 'Christmas Island' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 370
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Christmas%20Island',
+  timestamp: '2023-04-22T17:15:33.252Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Christmas%20Island',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca5-cu2CR/kS0oQS+9V9br5+iae/f5o"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Christmas%20Island',
+      query: { country: 'Christmas Island' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 396
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Christmas%20Island',
+  timestamp: '2023-04-22T17:15:34.592Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Chad',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Chad',
+      query: { country: 'Chad' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 315
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Chad',
+  timestamp: '2023-04-22T17:15:39.919Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=El%20Salvador',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=El%20Salvador',
+      query: { country: 'El Salvador' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 350
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=El%20Salvador',
+  timestamp: '2023-04-22T17:15:42.086Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Eritrea',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Eritrea',
+      query: { country: 'Eritrea' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 350
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Eritrea',
+  timestamp: '2023-04-22T17:15:43.951Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Equatorial%20Guinea',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Equatorial%20Guinea',
+      query: { country: 'Equatorial Guinea' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 393
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Equatorial%20Guinea',
+  timestamp: '2023-04-22T17:15:56.589Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Jamaica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Jamaica',
+      query: { country: 'Jamaica' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 295
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Jamaica',
+  timestamp: '2023-04-22T17:15:59.474Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Ivory%20Coast',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Ivory%20Coast',
+      query: { country: 'Ivory Coast' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 343
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Ivory%20Coast',
+  timestamp: '2023-04-22T17:16:00.097Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Jamaica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ae4-XHabtDS2ATRC072UaCFa8WQTDQ4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Jamaica',
+      query: { country: 'Jamaica' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 299
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Jamaica',
+  timestamp: '2023-04-22T17:16:01.327Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Ivory%20Coast',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"dc1-jYV11NuD1akHLOhDzKp+iyuHzuI"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Ivory%20Coast',
+      query: { country: 'Ivory Coast' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 325
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Ivory%20Coast',
+  timestamp: '2023-04-22T17:16:02.196Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Ireland',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Ireland',
+      query: { country: 'Ireland' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 359
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Ireland',
+  timestamp: '2023-04-22T17:27:34.356Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Isle%20of%20Man',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Isle%20of%20Man',
+      query: { country: 'Isle of Man' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 314
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Isle%20of%20Man',
+  timestamp: '2023-04-22T17:27:40.085Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Morocco',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Morocco',
+      query: { country: 'Morocco' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 526
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Morocco',
+  timestamp: '2023-04-22T17:27:43.938Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 688
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T13:37:22.400Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 697
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T13:39:16.882Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 717
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T13:39:17.606Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'if-none-match': 'W/"f39-o0py6Xrb6E7zmxjIWYcKXMOyUjs"',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 321
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-23T13:39:27.466Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Albania',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'if-none-match': 'W/"c03-NXx4FRQLF/68T85bffEo+0m/q3c"',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Albania',
+      query: { country: 'Albania' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 311
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Albania',
+  timestamp: '2023-04-23T13:39:29.184Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 313
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T13:39:34.362Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Andorra',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Andorra',
+      query: { country: 'Andorra' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 336
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Andorra',
+  timestamp: '2023-04-23T13:39:36.472Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Armenia',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Armenia',
+      query: { country: 'Armenia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 356
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Armenia',
+  timestamp: '2023-04-23T13:39:39.807Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Australia',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Australia',
+      query: { country: 'Australia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 308
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Australia',
+  timestamp: '2023-04-23T13:39:42.741Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Italy',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Italy',
+      query: { country: 'Italy' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 346
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Italy',
+  timestamp: '2023-04-23T13:39:51.015Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Hong%20Kong',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Hong%20Kong',
+      query: { country: 'Hong Kong' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 540
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Hong%20Kong',
+  timestamp: '2023-04-23T13:40:00.269Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Iceland',
+      headers: {
+        'x-forwarded-host': 'localhost:3001',
+        'x-forwarded-proto': 'http',
+        'x-forwarded-port': '3001',
+        'x-forwarded-for': '127.0.0.1',
+        'accept-language': 'en-US,en;q=0.9',
+        'accept-encoding': 'gzip, deflate, br',
+        referer: 'http://localhost:3001/',
+        'sec-fetch-dest': 'empty',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-site': 'same-origin',
+        accept: '*/*',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        connection: 'close',
+        host: 'localhost:3000'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Iceland',
+      query: { country: 'Iceland' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 517
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Iceland',
+  timestamp: '2023-04-23T13:40:02.426Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 3122
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T18:47:40.250Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1976
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T18:47:45.666Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 330
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-23T18:47:52.886Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1245
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T18:48:30.705Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Algeria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Algeria',
+      query: { country: 'Algeria' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 305
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Algeria',
+  timestamp: '2023-04-23T18:48:32.089Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1348
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T18:49:28.161Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f39-o0py6Xrb6E7zmxjIWYcKXMOyUjs"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 363
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-23T18:49:31.484Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 389
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T18:49:38.412Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Argentina',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Argentina',
+      query: { country: 'Argentina' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 403
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Argentina',
+  timestamp: '2023-04-23T18:49:44.681Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Aruba',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Aruba',
+      query: { country: 'Aruba' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 347
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Aruba',
+  timestamp: '2023-04-23T18:49:47.127Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Austria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Austria',
+      query: { country: 'Austria' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 622
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Austria',
+  timestamp: '2023-04-23T18:49:49.453Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Barbados',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Barbados',
+      query: { country: 'Barbados' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 310
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Barbados',
+  timestamp: '2023-04-23T18:49:52.446Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Cambodia',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Cambodia',
+      query: { country: 'Cambodia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 322
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Cambodia',
+  timestamp: '2023-04-23T18:50:10.763Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Canada',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Canada',
+      query: { country: 'Canada' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 532
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Canada',
+  timestamp: '2023-04-23T18:50:13.572Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1293
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T18:52:10.301Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Albania',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Albania',
+      query: { country: 'Albania' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1262
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Albania',
+  timestamp: '2023-04-23T18:52:15.160Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Algeria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f19-lKbzRVxGNa2W3Gnk5ct6Cb+CO+U"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Algeria',
+      query: { country: 'Algeria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 345
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Algeria',
+  timestamp: '2023-04-23T18:52:17.581Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"bc3-u0bYzWWQ2aASmGJORIzOwl2DcFE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 321
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T18:52:20.482Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Andorra',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Andorra',
+      query: { country: 'Andorra' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 556
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Andorra',
+  timestamp: '2023-04-23T18:52:32.200Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Angola',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Angola',
+      query: { country: 'Angola' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 312
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Angola',
+  timestamp: '2023-04-23T18:56:10.236Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antarctica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antarctica',
+      query: { country: 'Antarctica' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 304
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antarctica',
+  timestamp: '2023-04-23T18:56:11.964Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Argentina',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"d51-EHc5UVCyhKYeGP+ToMcQ5GcfpDc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Argentina',
+      query: { country: 'Argentina' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 535
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Argentina',
+  timestamp: '2023-04-23T18:56:14.138Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Austria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c3b-O90SaI8rY7e7rk7jhnkYFgC5JHw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Austria',
+      query: { country: 'Austria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 440
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Austria',
+  timestamp: '2023-04-23T18:56:22.403Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Chile',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Chile',
+      query: { country: 'Chile' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 610
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Chile',
+  timestamp: '2023-04-23T18:57:02.276Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Christmas%20Island',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca5-cu2CR/kS0oQS+9V9br5+iae/f5o"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Christmas%20Island',
+      query: { country: 'Christmas Island' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 538
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Christmas%20Island',
+  timestamp: '2023-04-23T18:57:04.961Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1854
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T18:58:06.084Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2063
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:03:53.422Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f39-o0py6Xrb6E7zmxjIWYcKXMOyUjs"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 331
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-23T19:03:54.984Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1293
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:04:14.876Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"bc3-u0bYzWWQ2aASmGJORIzOwl2DcFE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 547
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T19:04:16.840Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 5707
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:05:37.463Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1795
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:08:27.342Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f39-o0py6Xrb6E7zmxjIWYcKXMOyUjs"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 1315
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-23T19:08:30.396Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"bc3-u0bYzWWQ2aASmGJORIzOwl2DcFE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 1391
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T19:08:39.231Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Andorra',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c16-iLuP95SSemf+rB8jTHLu9qcRqqM"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Andorra',
+      query: { country: 'Andorra' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 367
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Andorra',
+  timestamp: '2023-04-23T19:08:46.863Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Australia',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Australia',
+      query: { country: 'Australia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 372
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Australia',
+  timestamp: '2023-04-23T19:08:58.662Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Austria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c3b-O90SaI8rY7e7rk7jhnkYFgC5JHw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Austria',
+      query: { country: 'Austria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 323
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Austria',
+  timestamp: '2023-04-23T19:09:04.372Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Barbados',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"b0e-zBXbeUJI8qpaxgR7SWBTHjH0df4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Barbados',
+      query: { country: 'Barbados' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 314
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Barbados',
+  timestamp: '2023-04-23T19:09:06.272Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Belarus',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Belarus',
+      query: { country: 'Belarus' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 356
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Belarus',
+  timestamp: '2023-04-23T19:09:09.499Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Canada',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"b8c-RYlBLUMh4M3kNCKuyo5UMwrD/GE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Canada',
+      query: { country: 'Canada' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 300
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Canada',
+  timestamp: '2023-04-23T19:09:11.078Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Comoros',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Comoros',
+      query: { country: 'Comoros' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 314
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Comoros',
+  timestamp: '2023-04-23T19:09:12.810Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Cook%20Islands',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Cook%20Islands',
+      query: { country: 'Cook Islands' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 329
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Cook%20Islands',
+  timestamp: '2023-04-23T19:09:15.001Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Egypt',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Egypt',
+      query: { country: 'Egypt' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 302
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Egypt',
+  timestamp: '2023-04-23T19:09:17.946Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"bc3-u0bYzWWQ2aASmGJORIzOwl2DcFE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 350
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T19:09:35.858Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20States',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20States',
+      query: { country: 'United States' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 320
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20States',
+  timestamp: '2023-04-23T19:09:43.161Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20States%20Minor%20Outlying%20Islands',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20States%20Minor%20Outlying%20Islands',
+      query: { country: 'United States Minor Outlying Islands' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 345
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20States%20Minor%20Outlying%20Islands',
+  timestamp: '2023-04-23T19:09:59.352Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20States%20Virgin%20Islands',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20States%20Virgin%20Islands',
+      query: { country: 'United States Virgin Islands' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 354
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20States%20Virgin%20Islands',
+  timestamp: '2023-04-23T19:10:01.300Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20States%20Minor%20Outlying%20Islands',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1059-4ifn/6LukkWjoagNjDgALYb2rrc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20States%20Minor%20Outlying%20Islands',
+      query: { country: 'United States Minor Outlying Islands' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 549
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20States%20Minor%20Outlying%20Islands',
+  timestamp: '2023-04-23T19:10:03.004Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20States',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"3538-7bla/TwCWZiy27a34P0jDhrS9Ww"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20States',
+      query: { country: 'United States' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 324
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20States',
+  timestamp: '2023-04-23T19:10:05.458Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20Kingdom',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20Kingdom',
+      query: { country: 'United Kingdom' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 306
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20Kingdom',
+  timestamp: '2023-04-23T19:10:08.289Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20Arab%20Emirates',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20Arab%20Emirates',
+      query: { country: 'United Arab Emirates' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 406
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20Arab%20Emirates',
+  timestamp: '2023-04-23T19:10:11.087Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=United%20States%20Minor%20Outlying%20Islands',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1059-4ifn/6LukkWjoagNjDgALYb2rrc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=United%20States%20Minor%20Outlying%20Islands',
+      query: { country: 'United States Minor Outlying Islands' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 325
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=United%20States%20Minor%20Outlying%20Islands',
+  timestamp: '2023-04-23T19:10:17.289Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1626
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:13:18.243Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Albania',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Albania',
+      query: { country: 'Albania' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 338
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Albania',
+  timestamp: '2023-04-23T19:13:21.668Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1840
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:14:53.404Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Algeria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f19-lKbzRVxGNa2W3Gnk5ct6Cb+CO+U"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Algeria',
+      query: { country: 'Algeria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 334
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Algeria',
+  timestamp: '2023-04-23T19:14:55.302Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 3433
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:15:03.015Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Algeria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f19-lKbzRVxGNa2W3Gnk5ct6Cb+CO+U"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Algeria',
+      query: { country: 'Algeria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 316
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Algeria',
+  timestamp: '2023-04-23T19:15:04.736Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'sec-ch-ua-platform': '"Windows"',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+        'sec-fetch-site': 'none',
+        'sec-fetch-mode': 'navigate',
+        'sec-fetch-user': '?1',
+        'sec-fetch-dest': 'document',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1454
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:15:33.993Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 4198
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:18:02.885Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Albania',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c03-NXx4FRQLF/68T85bffEo+0m/q3c"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Albania',
+      query: { country: 'Albania' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 378
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Albania',
+  timestamp: '2023-04-23T19:18:06.969Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Albania',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c03-NXx4FRQLF/68T85bffEo+0m/q3c"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Albania',
+      query: { country: 'Albania' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 529
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Albania',
+  timestamp: '2023-04-23T19:18:10.176Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Algeria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f19-lKbzRVxGNa2W3Gnk5ct6Cb+CO+U"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Algeria',
+      query: { country: 'Algeria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 313
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Algeria',
+  timestamp: '2023-04-23T19:18:10.912Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1362
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:18:52.790Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Albania',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c03-NXx4FRQLF/68T85bffEo+0m/q3c"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Albania',
+      query: { country: 'Albania' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 1333
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Albania',
+  timestamp: '2023-04-23T19:18:55.111Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Algeria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f19-lKbzRVxGNa2W3Gnk5ct6Cb+CO+U"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Algeria',
+      query: { country: 'Algeria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 308
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Algeria',
+  timestamp: '2023-04-23T19:19:05.083Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=American%20Samoa',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"bc3-u0bYzWWQ2aASmGJORIzOwl2DcFE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=American%20Samoa',
+      query: { country: 'American Samoa' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 723
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=American%20Samoa',
+  timestamp: '2023-04-23T19:19:07.132Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Angola',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Angola',
+      query: { country: 'Angola' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 332
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Angola',
+  timestamp: '2023-04-23T19:19:10.267Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Anguilla',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Anguilla',
+      query: { country: 'Anguilla' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 306
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Anguilla',
+  timestamp: '2023-04-23T19:19:11.206Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antarctica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antarctica',
+      query: { country: 'Antarctica' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 302
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antarctica',
+  timestamp: '2023-04-23T19:19:13.661Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antarctica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"993-JhcwCHX5H8yitfy8S1yJYWVXE+0"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antarctica',
+      query: { country: 'Antarctica' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 340
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antarctica',
+  timestamp: '2023-04-23T19:19:17.932Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antarctica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"993-JhcwCHX5H8yitfy8S1yJYWVXE+0"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antarctica',
+      query: { country: 'Antarctica' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 310
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antarctica',
+  timestamp: '2023-04-23T19:19:18.245Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antigua%20and%20Barbuda',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"e41-CtfsGybMN/5Wpr6Ykja9NHI6yno"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antigua%20and%20Barbuda',
+      query: { country: 'Antigua and Barbuda' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 334
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antigua%20and%20Barbuda',
+  timestamp: '2023-04-23T19:19:19.347Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antigua%20and%20Barbuda',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"e41-CtfsGybMN/5Wpr6Ykja9NHI6yno"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antigua%20and%20Barbuda',
+      query: { country: 'Antigua and Barbuda' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 363
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antigua%20and%20Barbuda',
+  timestamp: '2023-04-23T19:19:19.714Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Austria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c3b-O90SaI8rY7e7rk7jhnkYFgC5JHw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Austria',
+      query: { country: 'Austria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 548
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Austria',
+  timestamp: '2023-04-23T19:19:23.095Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Azerbaijan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Azerbaijan',
+      query: { country: 'Azerbaijan' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 669
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Azerbaijan',
+  timestamp: '2023-04-23T19:19:31.225Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Azerbaijan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"e2a-9Hdm7okdRuH5BgNyB6MKXTFmiNs"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Azerbaijan',
+      query: { country: 'Azerbaijan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 379
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Azerbaijan',
+  timestamp: '2023-04-23T19:19:31.608Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Bosnia%20and%20Herzegovina',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Bosnia%20and%20Herzegovina',
+      query: { country: 'Bosnia and Herzegovina' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 317
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Bosnia%20and%20Herzegovina',
+  timestamp: '2023-04-23T19:19:36.490Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Cambodia',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Cambodia',
+      query: { country: 'Cambodia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 329
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Cambodia',
+  timestamp: '2023-04-23T19:19:39.902Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1375
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-23T19:23:13.624Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f39-o0py6Xrb6E7zmxjIWYcKXMOyUjs"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 354
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-23T19:23:15.397Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Andorra',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c16-iLuP95SSemf+rB8jTHLu9qcRqqM"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Andorra',
+      query: { country: 'Andorra' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 651
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Andorra',
+  timestamp: '2023-04-23T19:23:20.528Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Antarctica',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"993-JhcwCHX5H8yitfy8S1yJYWVXE+0"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Antarctica',
+      query: { country: 'Antarctica' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 326
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Antarctica',
+  timestamp: '2023-04-23T19:23:23.108Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Argentina',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"d51-EHc5UVCyhKYeGP+ToMcQ5GcfpDc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Argentina',
+      query: { country: 'Argentina' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 336
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Argentina',
+  timestamp: '2023-04-23T19:23:24.989Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Aruba',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Aruba',
+      query: { country: 'Aruba' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 307
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Aruba',
+  timestamp: '2023-04-23T19:23:27.139Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Austria',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"c3b-O90SaI8rY7e7rk7jhnkYFgC5JHw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Austria',
+      query: { country: 'Austria' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 358
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Austria',
+  timestamp: '2023-04-23T19:23:29.951Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Bermuda',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Bermuda',
+      query: { country: 'Bermuda' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 293
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Bermuda',
+  timestamp: '2023-04-23T19:23:31.391Z'
+}

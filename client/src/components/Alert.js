@@ -2,20 +2,27 @@ import { CheckCircleIcon } from "@heroicons/react/20/solid";
 
 //Popup displaying success or failure of data retrieval from server based of value prop which is a boolean 
 export const Alert = ({ value }) => {
-  const primaryColour = value ? "text-green-400" : "text-red-400";
-  const ringColour = value ? "ring-green-600" : "ring-red-600";
-  const ringOffsetColour = value
-    ? "ring-offset-green-50"
-    : "ring-offset-red-50";
-  const secondaryColour = value ? "text-green-800" : "text-red-800";
-  const bgColour = value ? "bg-green-50" : "bg-red-50";
+
+  const { primaryColour, ringColour, ringOffsetColour, secondaryColour, bgColour } = value ? {
+    primaryColour : "text-green-400",
+    ringColour : "ring-green-600",
+    ringOffsetColour : "ring-offset-green-50",
+    secondaryColour : "text-green-800",
+    bgColour : "bg-green-50"
+  } : {
+    primaryColour : "text-red-400",
+    ringColour : "ring-red-600",
+    ringOffsetColour : "ring-offset-red-50",
+    secondaryColour : "text-red-800",
+    bgColour : "bg-red-50"
+  }
 
   return (
     <div className="rounded-md bg-green-50 p-4">
       <div className="flex justify-center">
         <div className="flex-shrink-0">
           <CheckCircleIcon
-            className={`h-5 w-5  ${primaryColour}`}
+            className={`h-5 w-5 ${primaryColour}`}
             aria-hidden="true"
           />
         </div>
