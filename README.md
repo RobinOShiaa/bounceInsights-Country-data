@@ -1,24 +1,5 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.516 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Mon Apr 24 2023 04:15:42 GMT-0700 (PDT)
-* Source doc: bounce
------>
-
+**Deployment**
+The application is deployed to heroku: [link]https://bounce-insights-countrydata.herokuapp.com/?fbclid=IwAR2cQMmRY4hwOi4U4aPn6LRMaB506QpnAzjOXxHFs0U6_3umVa_dsUqdFs0
 
 **Challenge**
 
