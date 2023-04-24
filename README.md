@@ -2,13 +2,14 @@
 
 Heroku: https://bounce-insights-countrydata.herokuapp.com/?fbclid=IwAR2cQMmRY4hwOi4U4aPn6LRMaB506QpnAzjOXxHFs0U6_3umVa_dsUqdFs0
 
+Github: https://github.com/RobinOShiaa/bounceInsights-Country-data
+
+
 **Challenge**
 
 The following assignment was to create a web app. This ui was to facilitate a means for a user to retrieve country data to be specified by the user and displayed accordingly. This data was to be extracted from a given API source.
 
 Technologies used
-
-
 
 * Nodejs
 * Javascript

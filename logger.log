@@ -4275,3 +4275,162 @@
   message: 'HTTP GET /api?country=Belgium',
   timestamp: '2023-04-24T11:10:06.667Z'
 }
+{
+  meta: {
+    req: {
+      url: '/api/all',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ca421-2nvAiSkcWbxItRboHRUH368lo3A"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/all',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1807
+  },
+  level: 'info',
+  message: 'HTTP GET /api/all',
+  timestamp: '2023-04-24T12:39:50.053Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Afghanistan',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"f39-o0py6Xrb6E7zmxjIWYcKXMOyUjs"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Afghanistan',
+      query: { country: 'Afghanistan' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 408
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Afghanistan',
+  timestamp: '2023-04-24T12:39:52.157Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Argentina',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"d51-EHc5UVCyhKYeGP+ToMcQ5GcfpDc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Argentina',
+      query: { country: 'Argentina' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 325
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Argentina',
+  timestamp: '2023-04-24T12:39:55.025Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Barbados',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"b0e-zBXbeUJI8qpaxgR7SWBTHjH0df4"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Barbados',
+      query: { country: 'Barbados' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 334
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Barbados',
+  timestamp: '2023-04-24T12:39:56.354Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api?country=Australia',
+      headers: {
+        host: 'localhost:3000',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Chromium";v="112", "Google Chrome";v="112", "Not:A-Brand";v="99"',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        accept: '*/*',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api?country=Australia',
+      query: { country: 'Australia' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 531
+  },
+  level: 'info',
+  message: 'HTTP GET /api?country=Australia',
+  timestamp: '2023-04-24T12:39:57.378Z'
+}
