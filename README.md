@@ -122,8 +122,10 @@ For the server I used winston node js dependency so I could utilise logging of r
 
 **Application Process**
 
-Once the user goes to the website url Immediately a fetch request is sent to the server for all country data. The server then fires a fetch request to the API for all country data. The data is then retrieved alongside a status check to say that the request was successful or not  and sent back to the user. The country names are  then displayed on the sidebar of the web app and a popup displays notifying everything worked accordingly. 
-
-The user can input a country, filtering the results by name and clicking a country name or scrolling and clicking a country name. In either instance another fetch request is sent to the server with the country name as a req parameter. The server parses this country name and sends it as a req parameter to the API
-
-To retrieve all individual country statistics, the data alongside the same check value is sent back to the user. Displaying the same popup and  This data is passed as props to our components and rendering them to display the flag, Information about the country like , language, population , capital , name, officialName etc and an iframe of the of the location of the capital on google maps 
+1. Once the user goes to the website url, immediately a fetch request is sent to the server for all country data. 
+2. The server then fires a fetch request to the API for all country data. 
+3. The data is then retrieved alongside a status check to say that the request was successful or not  and sent back to the user. 
+4. The country names are then displayed on the sidebar of the web app and a popup displays notifying everything worked accordingly. 
+5. The user can input a country, filtering the results by name and clicking a country name or scrolling and clicking a country name. In either instance another fetch request is sent to the server with the country name as a req parameter. 
+6. The server parses this country name and sends it as a req parameter to the API to retrieve all individual country statistics.
+7. The data alongside the same check value is sent back to the client. Displaying the same popup and This data is passed as props to our components and rendering them to display the flag, Information about the country like , language, population , capital , name, officialName etc and an iframe of the of the location of the capital on google maps 
