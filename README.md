@@ -26,7 +26,7 @@ The application can be installed within the root directory performing the follow
 
 1. `npm install` to install relevant dependencies for the server 
 2. `npm run build` npm run build will install the client side react app and also build the client application to production. 
-3. `npm start` within root directory will start the server and serve up relevant routing and display the client application using the index.html in the build path
+3. `npm start` starts the server and serves up relevant routing
 
 **Main files**
 
@@ -92,11 +92,9 @@ The application can be installed within the root directory performing the follow
 
 **Testing**
 
-Testing is done mainly
-
-Using jest unit testing and cypress for end to end testing 
-
-For this reason there is no need for server side jest unit testing of individual requests using something like supertest npm dependency to mock requests  as it is covered through cypress
+Jest was used for unit testing and cypress for end to end testing.
+`npm run test` to run all unit test cases
+`npm run cypress` to run all end to end testing 
 
 **Server** 
 
@@ -111,3 +109,10 @@ For the server I used winston node js dependency so I could utilise logging of r
 5. The user can input a country, filtering the results by name and clicking a country name or scrolling and clicking a country name. In either instance another fetch request is sent to the server with the country name as a req parameter. 
 6. The server parses this country name and sends it as a req parameter to the API to retrieve all individual country statistics.
 7. The data alongside the same check value is sent back to the client. Displaying the same popup and This data is passed as props to our components and rendering them to display the flag, Information about the country like , language, population , capital , name, officialName etc and an iframe of the of the location of the capital on google maps 
+
+
+**Conclusion**
+
+Although a server was what was needed for this assignment. The entire application could of been done without one as the API could have communicated directly with the client side of the application. For the sake of the challenge it seemed unecessary but understandably, I can understand that this challenge was moreso a demonstration of my knowledge and where it may be applicable to the actual role.
+
+In addition, I worked with Tailwind framework instead of raw css. This preference was mainly because I am currently learning Tailwind and I felt this assignment was a great oppurtunity to excerice this. Had it been mandatory i would of had no problem using the initial approach
