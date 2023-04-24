@@ -37,7 +37,7 @@ Which corresponds to the success or failure of an individual request from our se
 
 If true the popup will be green and prompt success otherwise failure and red background
 
-**Country.js **
+**Country.js**
 
 Responsible for presenting the information regarding the country 
 
