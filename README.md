@@ -49,13 +49,13 @@ The application can be installed within the root directory performing the follow
 **Main files**
 
 
-    **App.js**
+    App.js
 
 
     This is the main script associated with rendering the application 
 
 
-    **Alert.js**
+    Alert.js
 
 
     Is a snippet of xml representing a popup notification. This notification receives a boolean 
@@ -67,7 +67,7 @@ The application can be installed within the root directory performing the follow
     If true the popup will be green and prompt success otherwise failure and red background
 
 
-    **Country.js**
+    Country.js
 
 
     Responsible for presenting the information regarding the country 
@@ -79,25 +79,25 @@ The application can be installed within the root directory performing the follow
     Ie (Language : english). And a iframe of the location of thee capital on google maps 
 
 
-    **GridStat.js**
+    GridStat.js
 
 
     This component is rendered multiple times within a css grid of country data fields and values
 
 
-    **CountryList.js**
+    CountryList.js
 
 
     This is the sidebar component. Containing all countries names  and the search bar
 
 
-    **Searchbar.js**
+    Searchbar.js
 
 
     Is within the sidebar and uses an event handler on user input to filter the countries listed in countryList 
 
 
-    **.env**
+    .env
 
 
     .env files are used to store environment variables that are needed for deployment for but not pushed to our git repository for security purposes
