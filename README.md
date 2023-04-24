@@ -18,7 +18,7 @@ Technologies used
 * Jest 
 * Cypress
 
-**Installation **
+**Installation**
 
 The application can be installed within the root directory performing the following commands in terminal, 
 
