@@ -1,9 +1,32 @@
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.516 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Mon Apr 24 2023 04:15:42 GMT-0700 (PDT)
+* Source doc: bounce
+----->
+
 
 **Challenge**
 
 The following assignment was to create a web app. This ui was to facilitate a means for a user to retrieve country data to be specified by the user and displayed accordingly. This data was to be extracted from a given API source.
 
-**Technologies used**
+Technologies used
+
+
 
 * Nodejs
 * Javascript
@@ -13,57 +36,77 @@ The following assignment was to create a web app. This ui was to facilitate a me
 * Jest 
 * Cypress
 
-**Installation**
+**Installation **
 
 The application can be installed within the root directory performing the following commands in terminal, 
 
 
 
-1. `npm install `to install relevant dependencies for the server 
-2. `npm run build ` npm run build will install the client side react app and also build the client application to production. 
-3. `npm start `within root directory will start the server and serve up relevant routing and display the client application using the index.html in the build path
+1. `npm install - `to install relevant dependencies for the server 
+2. `npm run build` - npm run build will install the client side react app and also build the client application to production. 
+3. `npm start - `within root directory will start the server and serve up relevant routing and display the client application using the index.html in the build path
 
 **Main files**
 
-**App.js**
 
-This is the main script associated with rendering the application 
+    **App.js**
 
-**Alert.js**
 
-Is a snippet of xml representing a popup notification. This notification receives a boolean 
+    This is the main script associated with rendering the application 
 
-Which corresponds to the success or failure of an individual request from our server 
 
-If true the popup will be green and prompt success otherwise failure and red background
+    **Alert.js**
 
-**Country.js**
 
-Responsible for presenting the information regarding the country 
+    Is a snippet of xml representing a popup notification. This notification receives a boolean 
 
-Such as the flag, individual stat boxes(gridStat) of an official field and value
 
-Ie (Language : english). And a iframe of the location of thee capital on google maps 
+    Which corresponds to the success or failure of an individual request from our server 
 
-**GridStat.js**
 
-This component is rendered multiple times within a css grid of country data fields and values
+    If true the popup will be green and prompt success otherwise failure and red background
 
-**CountryList.js**
 
-This is the sidebar component. Containing all countries names  and the search bar
+    **Country.js**
 
-**Searchbar.js**
 
-Is within the sidebar and uses an event handler on user input to filter the countries listed in countryList 
+    Responsible for presenting the information regarding the country 
 
-**.env**
 
-.env files are used to store environment variables that are needed for deployment for but not pushed to our git repository for security purposes
+    Such as the flag, individual stat boxes (gridStat) of an official field and value
 
-These variables can be port numbers for server and client or API_KEY for google maps API
 
-So we can get the iframe from country capital
+    Ie (Language : english). And a iframe of the location of thee capital on google maps 
+
+
+    **GridStat.js**
+
+
+    This component is rendered multiple times within a css grid of country data fields and values
+
+
+    **CountryList.js**
+
+
+    This is the sidebar component. Containing all countries names  and the search bar
+
+
+    **Searchbar.js**
+
+
+    Is within the sidebar and uses an event handler on user input to filter the countries listed in countryList 
+
+
+    **.env**
+
+
+    .env files are used to store environment variables that are needed for deployment for but not pushed to our git repository for security purposes
+
+
+    These variables can be port numbers for server and client or API_KEY for google maps API
+
+
+    So we can get the iframe from country capital
 
 **Testing**
 
@@ -83,6 +126,4 @@ Once the user goes to the website url Immediately a fetch request is sent to the
 
 The user can input a country, filtering the results by name and clicking a country name or scrolling and clicking a country name. In either instance another fetch request is sent to the server with the country name as a req parameter. The server parses this country name and sends it as a req parameter to the API
 
-To retrieve all individual country statistics, the data alongside the same check value is sent back to the user. Displaying the same popup and  This data is passed as props to our components and rendering them to display the flag, Information about the country like , language, population , capital , name, officialName etc
-
-And an iframe of the of the location of the capital on google maps 
+To retrieve all individual country statistics, the data alongside the same check value is sent back to the user. Displaying the same popup and  This data is passed as props to our components and rendering them to display the flag, Information about the country like , language, population , capital , name, officialName etc and an iframe of the of the location of the capital on google maps 
