@@ -1,5 +1,6 @@
 **Deployment**
-The application is deployed to heroku: https://bounce-insights-countrydata.herokuapp.com/?fbclid=IwAR2cQMmRY4hwOi4U4aPn6LRMaB506QpnAzjOXxHFs0U6_3umVa_dsUqdFs0
+
+Heroku: https://bounce-insights-countrydata.herokuapp.com/?fbclid=IwAR2cQMmRY4hwOi4U4aPn6LRMaB506QpnAzjOXxHFs0U6_3umVa_dsUqdFs0
 
 **Challenge**
 
