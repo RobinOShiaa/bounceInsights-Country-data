@@ -42,9 +42,9 @@ The application can be installed within the root directory performing the follow
 
 
 
-1. `npm install - `to install relevant dependencies for the server 
-2. `npm run build` - npm run build will install the client side react app and also build the client application to production. 
-3. `npm start - `within root directory will start the server and serve up relevant routing and display the client application using the index.html in the build path
+1. `npm install` to install relevant dependencies for the server 
+2. `npm run build` npm run build will install the client side react app and also build the client application to production. 
+3. `npm start` within root directory will start the server and serve up relevant routing and display the client application using the index.html in the build path
 
 **Main files**
 
@@ -100,7 +100,7 @@ The application can be installed within the root directory performing the follow
     .env
 
 
-    .env files are used to store environment variables that are needed for deployment for but not pushed to our git repository for security purposes
+    .env files are used to store environment variables that are needed for deployment but not pushed to our git repository for security purposes
 
 
     These variables can be port numbers for server and client or API_KEY for google maps API
