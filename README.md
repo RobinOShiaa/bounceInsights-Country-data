@@ -1,70 +1,94 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Challenge**
 
-## Available Scripts
+The following assignment was to create a web app. This ui was to facilitate a means for a user to retrieve country data to be specified by the user and displayed accordingly. This data was to be extracted from a given API source.
 
-In the project directory, you can run:
+**Technologies used**
 
-### `npm start`
+Nodejs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Javascript
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React
 
-### `npm test`
+Express
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Tailwind
 
-### `npm run build`
+Jest 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Cypress
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Installation**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The application can be installed within the root directory performing the following commands in terminal, 
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. `npm install - `to install relevant dependencies for the server 
+2. `npm run build` - npm run build will install the client side react app and also build the client application to production. 
+3. `npm start - `within root directory will start the server and serve up relevant routing and display the client application using the index.html in the build path
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Main files**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**App.js**
 
-## Learn More
+This is the main script associated with rendering the application 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Alert.js**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Is a snippet of xml representing a popup notification. This notification receives a boolean 
 
-### Code Splitting
+Which corresponds to the success or failure of an individual request from our server 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+If true the popup will be green and prompt success otherwise failure and red background
 
-### Analyzing the Bundle Size
+**Country.js **
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Responsible for presenting the information regarding the country 
 
-### Making a Progressive Web App
+Such as the flag, individual stat boxes(gridStat) of an official field and value
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Ie (Language : english). And a iframe of the location of thee capital on google maps 
 
-### Advanced Configuration
+**GridStat.js**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This component is rendered multiple times within a css grid of country data fields and values
 
-### Deployment
+**CountryList.js**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This is the sidebar component. Containing all countries names  and the search bar
 
-### `npm run build` fails to minify
+**Searchbar.js**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Is within the sidebar and uses an event handler on user input to filter the countries listed in countryList 
+
+**.env**
+
+.env files are used to store environment variables that are needed for deployment for but not pushed to our git repository for security purposes
+
+These variables can be port numbers for server and client or API_KEY for google maps API
+
+So we can get the iframe from country capital
+
+**Testing**
+
+Testing is done mainly
+
+Using jest unit testing and cypress for end to end testing 
+
+For this reason there is no need for server side jest unit testing of individual requests using something like supertest npm dependency to mock requests  as it is covered through cypress
+
+**Server** 
+
+For the server I used winston node js dependency so I could utilise logging of requests being made, I also used postman as a third party application to test sourcing data from the server and from the api.
+
+**Application Process**
+
+Once the user goes to the website url Immediately a fetch request is sent to the server for all country data. The server then fires a fetch request to the API for all country data. The data is then retrieved alongside a status check to say that the request was successful or not  and sent back to the user. The country names are  then displayed on the sidebar of the web app and a popup displays notifying everything worked accordingly. 
+
+The user can input a country, filtering the results by name and clicking a country name or scrolling and clicking a country name. In either instance another fetch request is sent to the server with the country name as a req parameter. The server parses this country name and sends it as a req parameter to the API
+
+To retrieve all individual country statistics, the data alongside the same check value is sent back to the user. Displaying the same popup and  This data is passed as props to our components and rendering them to display the flag, Information about the country like , language, population , capital , name, officialName etc
+
+And an iframe of the of the location of the capital on google maps 
